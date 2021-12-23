@@ -1,0 +1,26 @@
+{
+  "id": "8c917885-e2d9-44c9-97da-9aa24513fe5b",
+  "name": "ALAssignment1",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALAssignment1.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
